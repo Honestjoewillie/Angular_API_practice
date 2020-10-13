@@ -1,0 +1,18 @@
+button {
+  margin: 10px;
+}
+.get {
+  background-color: mediumblue;
+  color: white;
+}
+.hide {
+  background-color: turquoise;
+}
+.add {
+  background-color: greenyellow;
+}
+
+.del {
+  background-color: red;
+  color: yellow;
+}
